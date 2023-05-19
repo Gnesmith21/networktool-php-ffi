@@ -14,7 +14,7 @@ List any prerequisites or requirements needed before following the instructions.
 
 ## Usage
 
-The is just a sample quick project on the power of PHP FFI. Go to the test folder for all of the information. if you need to recompile the .SO file go the the SRC dire ans run build_c.sh
+The is just a sample quick project on the power of PHP FFI. Go to the test folder for all of the information. if you need to recompile the .SO file go the the SRC DIRE and run build_c.sh
 
 ## Authors
 
